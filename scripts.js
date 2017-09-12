@@ -1,3 +1,7 @@
+	$(function getElementByTagName(p) {
+		console.log(p);
+	});
+		
 	$("span:even").css('color', 'red');
  
 	var paragraphs = $('p');
